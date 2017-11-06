@@ -1,12 +1,12 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
+# [Aeronaut Brewing Company](http://aeronuatbrewing.com/)
 
-[Agency](http://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
+The purpose of this document is to educate new staff members on company history, culture, and practices. It is also intended to serve as a guide for current staff in some regards.
 
 ## Getting Started
 
 Several options are available to get started quickly:
-* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/agency/)
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-agency.git`
+* [Download the latest release on Start Bootstrap](http://dickinse.github.io/hb)
+* Clone the repo: `git clone https://github.com/dickinse/hb.git`
 * Fork the repo
 
 ## Developing Using Source Files
@@ -21,11 +21,11 @@ If you need to update the plugins included with this template, simply run the fo
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-agency/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/agency/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/dickinse/hb/issues) here on GitHub or shoot me an email [Erika](mailto:erika@aeronaut.net).
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+This handbook was created by Erika. The Bootstrap template was created and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
 * https://twitter.com/davidmillerskt
 * https://github.com/davidtmiller
