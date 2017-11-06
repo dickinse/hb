@@ -672,4 +672,26 @@ section#faq :-ms-input-placeholder {
     border-radius: 15px;
     border-color: #f1f1f1;
     margin-bottom: 10px;
+    margin-top: 25px;
+}
+
+section#beer {
+  background-color: #222222;
+  background-image: url('../img/M.jpg');
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+#beer-text {
+    background-color: rgba(254, 209, 54, .8);
+    border: 2px solid;
+    border-radius: 15px;
+    border-color: #f1f1f1;
+    margin-bottom: 10px;
+    margin-top: 25px;
 }
